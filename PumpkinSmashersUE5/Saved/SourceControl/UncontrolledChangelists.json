@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Scenes/TestingScene.umap",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Input/Actions/IA_Interact.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Input/IMC_Default.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Variant_Horror/Blueprints/BP_HorrorCharacter.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
+				"F:/UE5 Projects/PumpkinSmashersUE5/PumpkinSmashersUE5/Content/Variant_Shooter/Blueprints/AI/BP_ShooterNPC.uasset"
+			]
+		}
+	]
+}
